@@ -1,2 +1,3 @@
 # ExercicesBeecrowd
-Resolução de exercicios da plataforma beecrowd.
+Resolução de exercicios de programação da plataforma beecrowd.
+
