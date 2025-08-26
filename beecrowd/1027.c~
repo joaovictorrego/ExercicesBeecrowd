@@ -1,0 +1,14 @@
+// Leitura de N;
+// Parar quando saida EOF;
+// Criar um Vetor X e um VETOR Y com tamanho de N;
+// Ordenar Vetor Y e X com base Y do menor para o maior
+// Verificar se X = +1 e -1 se for o oposto sera a sequencia da curva
+
+#include <stdio.h>
+
+int main(){
+  int N;
+  while(scanf("%d", &N) != EOF){
+    
+  }
+}

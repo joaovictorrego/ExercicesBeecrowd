@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+proximoNumeroPrimo(int n){
+  int i;
+  n = n + 1;
+  while(1){
+    n++;
+  }
+}
+
+
+int main(){
+
+  return 0;
+}
